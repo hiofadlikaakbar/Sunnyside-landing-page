@@ -5,25 +5,7 @@ body {
   font-size: 18px;
   overflow-x: hidden;
 }
-/* 
-.short-border1:after {
-  content: "";
-  display: block;
-  border-bottom: 5px solid #fad400;
-  width: 125px;
-  margin-top: -7px;
-} */
 
-.short-border2:after {
-  content: "";
-  display: block;
-  border-bottom: 5px solid #fe7867;
-  width: 125px;
-
-  margin-top: -7px;
-}
-
-footer svg:hover path {
-  fill: #fff;
-  @apply transition ease-in-out duration-150;
+.green {
+  fill: #2c7564;
 }
